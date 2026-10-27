@@ -5,7 +5,7 @@
 const modules = {
 
     /* ==================================================
-       1. PPDP
+       1. SIKLUS 1 TERBIMBING
     ================================================== */
 
     terbimbingsiklus1: {
@@ -66,7 +66,7 @@ const modules = {
 
 
     /* ==================================================
-       2. PMA
+       2. SIKLUS 2 TERBIMBING
     ================================================== */
 
     terbimbingsiklus2: {
@@ -129,7 +129,7 @@ const modules = {
 
 
     /* ==================================================
-       3. KURIKULUM
+       3. SIKLUS 3 TERBIMBING
     ================================================== */
 
     terbimbingsiklus3: {
@@ -190,42 +190,42 @@ const modules = {
 
 
     /* ==================================================
-       4. FPPN
+       4. SIKLUS 1 MANDIRI
     ================================================== */
 
     mandirisiklus1: {
 
         year: "2026",
 
-        title: "Filosofi Pendidikan dan Pendidikan Nilai",
+        title: "Pengenalan Scratch (Antarmuka dan Blok Movement)",
 
         description:
-            "Memahami filosofi pendidikan Indonesia serta nilai moral, etika, kepemimpinan, dan semangat pembelajar sepanjang hayat.",
+            "Kelas 9 A - SMP Negeri 28 Malang",
 
         pdf:
-            "LINK_GOOGLE_DRIVE_FPPN_PREVIEW",
+            "https://drive.google.com/file/d/1D66O05-W3W7xCONClivecPUjJx79fI3u/preview",
 
         drive:
-            "LINK_GOOGLE_DRIVE_FPPN",
+            "https://drive.google.com/drive/folders/1jr9eNpIoxH3I4QSkKFcsS8fYCjxFk9db?usp=sharing",
 
         connection:
-            "Materi filosofi pendidikan berkaitan dengan peran guru dalam membangun pembelajaran yang sesuai dengan nilai dan tujuan pendidikan Indonesia.",
+            "Pembelajaran memberikan pemahaman tentang pentingnya apersepsi, penggunaan media teknologi, dan praktik langsung melalui Scratch untuk meningkatkan pemahaman serta antusiasme murid dalam mempelajari pemrograman sederhana.",
 
         challenge:
-            "Tantangannya adalah menerapkan nilai-nilai pendidikan dalam situasi nyata di sekolah dan dalam interaksi dengan peserta didik.",
+            "Pendampingan murid dengan kemampuan yang berbeda-beda, pengelolaan waktu, dan pembagian peran dalam kelompok masih perlu ditingkatkan agar seluruh murid dapat berpartisipasi secara aktif.",
 
         concept:
-            "Filosofi pendidikan menjadi landasan bagi guru dalam menentukan sikap, nilai, dan arah pembelajaran.",
+            "Pembelajaran yang efektif membutuhkan apersepsi yang sesuai, demonstrasi secara bertahap, penggunaan media pembelajaran yang menarik, serta pengelolaan kelas yang baik agar tujuan pembelajaran dapat tercapai.",
 
         change:
-            "Saya semakin memahami bahwa menjadi guru tidak hanya berkaitan dengan kemampuan mengajar, tetapi juga keteladanan dan nilai yang diterapkan.",
+            "Memberikan demonstrasi penggunaan Scratch secara bertahap, menyediakan contoh program sederhana, meningkatkan pendampingan bagi murid yang mengalami kesulitan, serta memperjelas pembagian peran dan pengaturan waktu agar partisipasi murid lebih merata.",
 
         media: [
 
             {
                 type: "Materi",
                 title: "Materi Pembelajaran",
-                link: "LINK_MATERI_FPPN"
+                link: "https://drive.google.com/file/d/1q8-hDbC7t_TvGjivt3Lva5rl5VjGbjRA/view?usp=sharing"
             },
 
             {
@@ -251,42 +251,42 @@ const modules = {
 
 
     /* ==================================================
-       5. GROWTH MINDSET
+       5. SIKLUS 2 MANDIRI
     ================================================== */
 
     mandirisiklus2: {
 
         year: "2026",
 
-        title: "Pola Pikir Bertumbuh (Growth Mindset) dalam Pembelajaran",
+        title: "Proyek Scratch (Percabangan / Decision)",
 
         description:
-            "Mengembangkan pola pikir bertumbuh dalam pembelajaran melalui keberanian mencoba, ketekunan, refleksi, dan umpan balik yang membangun.",
+            "Kelas 9 A - SMP Negeri 28 Malang",
 
         pdf:
-            "LINK_GOOGLE_DRIVE_GROWTH_PREVIEW",
+            "https://drive.google.com/file/d/1-ImJn76cSNifFkzn0PojAsCN6I3htcOE/preview",
 
         drive:
-            "LINK_GOOGLE_DRIVE_GROWTH",
+            "https://drive.google.com/drive/folders/18w_D_cktKNiwCj3aJSN4q71TOZdi36pq?usp=sharing",
 
         connection:
-            "Growth mindset berkaitan dengan peran guru dalam menciptakan lingkungan belajar yang mendorong murid untuk terus berkembang.",
+            "Pembelajaran memberikan pemahaman tentang pentingnya apersepsi melalui contoh kehidupan sehari-hari, penggunaan teknologi, dan praktik langsung menggunakan Scratch untuk meningkatkan pemahaman serta antusiasme murid dalam mempelajari konsep percabangan.",
 
         challenge:
-            "Tantangannya adalah mengubah pola pikir tetap dan membangun keberanian peserta didik untuk mencoba ketika menghadapi kesulitan.",
+            "Murid masih mengalami kesulitan dalam menentukan logika kondisi yang tepat pada blok if-then dan if-then-else. Pendampingan saat praktik dan pengelolaan waktu juga perlu ditingkatkan agar murid dapat memahami materi dengan lebih baik.",
 
         concept:
-            "Growth mindset menekankan bahwa kemampuan dapat berkembang melalui usaha, strategi, pengalaman, dan umpan balik.",
+            "Pembelajaran yang efektif membutuhkan apersepsi yang kontekstual, penjelasan konsep secara bertahap, penggunaan media pembelajaran yang interaktif, serta pendampingan yang sesuai dengan kebutuhan murid agar tujuan pembelajaran tercapai.",
 
         change:
-            "Saya lebih memperhatikan cara memberikan umpan balik dan mendorong peserta didik agar melihat kesalahan sebagai bagian dari proses belajar.",
+            "Memberikan contoh percabangan yang lebih sederhana dan bertahap, mengaitkan kondisi dengan kehidupan sehari-hari, serta meningkatkan pendampingan saat praktik dan mengatur waktu pembelajaran agar murid lebih mudah memahami logika percabangan dan berpartisipasi secara aktif.",
 
         media: [
 
             {
                 type: "Materi",
                 title: "Materi Pembelajaran",
-                link: "LINK_MATERI_CT"
+                link: "https://drive.google.com/file/d/1em6aelZF5glr7qrF1mGgeT1PQ--5LQs0/view?usp=sharing"
             },
 
             {
@@ -312,42 +312,42 @@ const modules = {
 
 
     /* ==================================================
-       6. COMPUTATIONAL THINKING
+       6. SIKLUS 3 MANDIRI
     ================================================== */
 
     mandirisiklus3: {
 
         year: "2026",
 
-        title: "Computational Thinking",
+        title: "Proyek Scratch (Broadcast / Pengiriman Pesan Antar-Sprite)",
 
         description:
-            "Mengembangkan kemampuan berpikir sistematis untuk memahami masalah dan merancang solusi yang efektif dan efisien.",
+            "Kelas 9 A - SMP Negeri 28 Malang",
 
         pdf:
-            "LINK_GOOGLE_DRIVE_CT_PREVIEW",
+            "https://drive.google.com/file/d/16XpGmLLmiDO-y7spQSvGSg0aSQPsh1YD/preview",
 
         drive:
-            "LINK_GOOGLE_DRIVE_CT",
+            "https://drive.google.com/drive/folders/1blWAx4l56QQxx0mIY-x_IUsLgBURf4c4?usp=sharing",
 
         connection:
-            "Computational Thinking berkaitan erat dengan pembelajaran Informatika dan kemampuan memecahkan berbagai masalah dalam kehidupan sehari-hari.",
+            "Pembelajaran berkaitan dengan pentingnya apersepsi, demonstrasi, dan praktik langsung menggunakan Scratch untuk membantu murid memahami konsep variabel secara lebih konkret.",
 
         challenge:
-            "Tantangannya adalah memahami masalah secara menyeluruh sebelum menentukan strategi penyelesaian yang tepat.",
+            "Beberapa murid masih kesulitan membedakan fungsi blok set dan change, menghubungkan blok program, serta membutuhkan pendampingan sehingga pengelolaan waktu pembelajaran masih perlu diperbaiki.",
 
         concept:
-            "CT melibatkan proses seperti dekomposisi, pengenalan pola, abstraksi, dan penyusunan algoritma untuk menyelesaikan masalah.",
+            "Pembelajaran yang efektif membutuhkan penjelasan bertahap, contoh yang sederhana, praktik langsung, pendampingan, dan pengelolaan waktu agar murid dapat memahami konsep dan terlibat aktif dalam pembelajaran.",
 
         change:
-            "Saya menjadi lebih terbiasa melihat permasalahan secara sistematis dan menyusun langkah penyelesaian sebelum melakukan implementasi.",
+            "Memberikan demonstrasi secara bertahap, menyediakan contoh proyek sederhana dan LKPD, meningkatkan pendampingan saat praktik, serta mengatur waktu agar murid memiliki kesempatan untuk menguji dan memperbaiki program.",
 
         media: [
 
             {
                 type: "Materi",
                 title: "Materi Pembelajaran",
-                link: "LINK_MATERI_CT"
+                link: "https://drive.google.com/file/d/1R_t5MYViPw2PgKPpaIhPATQB06-RcjfP/view?usp=sharing"
             },
 
             {
@@ -373,48 +373,48 @@ const modules = {
 
 
     /* ==================================================
-       7. PMA LANJUT
+       7. SIKLUS 4 MANDIRI
     ================================================== */
 
     mandirisiklus4: {
 
         year: "2026",
 
-        title: "Pembelajaran Mendalam dan Asesmen Lanjut",
+        title: "Proyek Scratch (Variabel / Penyimpanan dan Perubahan Nilai)",
 
         description:
-            "Menerapkan pembelajaran mendalam melalui DUP, TaRL, dan CRT berdasarkan hasil asesmen dan kebutuhan belajar murid.",
+            "Kelas 9 A - SMP Negeri 28 Malang",
 
         pdf:
-            "LINK_GOOGLE_DRIVE_PMA_LANJUT_PREVIEW",
+            "https://drive.google.com/file/d/199iE_A6nCQEbuzB24dcclfv1aSS75h2D/preview",
 
         drive:
-            "LINK_GOOGLE_DRIVE_PMA_LANJUT",
+            "https://drive.google.com/drive/folders/1A2UkDWICv9mXdIdFm2ncBl8LDl-da5R8?usp=sharing",
 
         connection:
-            "Materi ini berkaitan dengan kebutuhan guru untuk merancang pembelajaran yang adaptif berdasarkan kondisi dan kebutuhan peserta didik.",
+            "Pembelajaran berkaitan dengan pentingnya apersepsi, demonstrasi, dan praktik langsung menggunakan Scratch untuk membantu murid memahami konsep broadcast melalui contoh yang dekat dengan kehidupan sehari-hari.",
 
         challenge:
-            "Tantangannya adalah mengolah hasil asesmen menjadi dasar untuk menentukan strategi pembelajaran yang tepat bagi murid yang beragam.",
+            "Beberapa murid masih mengalami kesulitan dalam menentukan nama pesan, mencocokkan pesan yang dikirim dan diterima sprite, serta membutuhkan waktu dan pendampingan lebih dalam menyelesaikan program.",
 
         concept:
-            "DUP, TaRL, dan CRT menjadi kerangka untuk menciptakan pembelajaran yang adaptif, inklusif, kontekstual, dan berpihak pada murid.",
+            "Pembelajaran efektif membutuhkan demonstrasi yang bertahap, instruksi yang jelas, pendampingan, dan pengelolaan kelas yang baik agar murid dapat memahami konsep broadcast serta aktif dalam kegiatan kelompok.",
 
         change:
-            "Saya menjadi lebih mempertimbangkan data asesmen, kesiapan belajar, latar belakang, serta kebutuhan murid dalam merancang pembelajaran.",
+            "Memberikan contoh program secara bertahap, menyediakan LKPD yang lebih terstruktur, memperjelas pembagian peran dalam kelompok, serta menyediakan waktu untuk menguji dan memperbaiki kesalahan program.",
 
         media: [
 
             {
                 type: "Materi",
                 title: "Materi Pembelajaran",
-                link: "LINK_MATERI_PMA_LANJUT"
+                link: "https://drive.google.com/file/d/1LGVLN8U4KsO6E7DBVqUMl3043AfJJK1a/view?usp=sharing"
             },
 
             {
                 type: "Video",
                 title: "Video Computational Thinking",
-                link: "LINK_VIDEO_CT"
+                link: "https://youtu.be/hotVq3oeobg"
             }
 
         ],
